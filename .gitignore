@@ -3,4 +3,4 @@ outputs
 .pytest_cache
 src/disparity_maps.egg-info
 .idea
-
+tests/binocular_imgs
