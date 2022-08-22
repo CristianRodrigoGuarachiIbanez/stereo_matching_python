@@ -1,0 +1,3 @@
+outputs
+.mypy_cache
+.pytest_cache
