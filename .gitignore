@@ -1,3 +1,6 @@
 outputs
 .mypy_cache
 .pytest_cache
+src/disparity_maps.egg-info
+.idea
+
